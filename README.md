@@ -1,5 +1,5 @@
 # TweetClusteringJaccard
-A good example of how to cluster tweets using the Jaccard Distance Metric. You can run this using any properly formatted json file
+A good research example of how to cluster tweets using the Jaccard Distance Metric. A new research project I am currently working on to assess the credibility of tweets retrieved from Twitter.  You can run this using any properly formatted json file
 from Twitter and gain significant insight on whatever information you are looking for on twitter! Enjoy 
 
 Code is commented for ease of usage by others. I have included several files to see how the output looks.  The InitialSeeds.txt
