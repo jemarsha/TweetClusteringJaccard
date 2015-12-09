@@ -8,8 +8,8 @@ and outputbyCentroid.txt file.
 
 Depending on the command line argument, You've got two ways to run it, either with the initial parameter K as shown in the example below:
 
-python tweet_clustering.py Tweets.json .7 output.txt
-output-for-humans.txt
+python tweet_clustering.py OregonShootingTweets.json .7 outputbyCentroid.txt
+OutputinWords.txt
 
 or with the initial seeds file 'InitialSeeds.txt' as shown in this example below:
 
