@@ -3,8 +3,8 @@ A good example of how to cluster tweets using the Jaccard Distance Metric. You c
 from Twitter and gain significant insight on whatever information you are looking for on twitter! Enjoy 
 
 Code is commented for ease of usage by others. I have included several files to see how the output looks.  The InitialSeeds.txt
-file and the Tweets.Json file go together from the Boston Marathon.  The OregonShooting.json file goes with the outputinWords.txt file
-and outputinNumbers.txt file.
+file and the Tweets.Json file go together from the Boston Marathon.  The OregonShootingTweets.json file goes with the OutputinWords.txt file
+and outputbyCentroid.txt file.
 
 Depending on the command line argument, You've got two ways to run it, either with the initial parameter K as shown in the example below:
 
